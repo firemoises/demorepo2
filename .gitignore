@@ -1,1 +1,5 @@
+#Ver multiples gitignore ya hechos en: https://github.com/github/gitignore
+
 file_inutil.txt
+/config/
+config*
